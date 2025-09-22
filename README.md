@@ -32,8 +32,3 @@
 ## Autor
 - **Guillermina Paul** – Desarrollo parcial del juego y lógica en JavaScript.
 - **Alura Latam** - Base del proyecto, estructura en **THML** y **CSS**
-
----
-
-## Prueba el juego
-Puedes abrir directamente el archivo `index.html` en tu navegador para jugar.
